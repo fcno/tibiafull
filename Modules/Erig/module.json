@@ -1,0 +1,11 @@
+{
+    "name": "Erig",
+    "alias": "erig",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Erig\\Providers\\ErigServiceProvider"
+    ],
+    "files": []
+}
