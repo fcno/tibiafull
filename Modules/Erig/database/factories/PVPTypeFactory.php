@@ -39,4 +39,3 @@ class PVPTypeFactory extends Factory
         });
     }
 }
-

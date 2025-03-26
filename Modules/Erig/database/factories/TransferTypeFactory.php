@@ -37,4 +37,3 @@ class TransferTypeFactory extends Factory
         });
     }
 }
-
